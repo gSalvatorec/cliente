@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Para Empezar en mi proyecto con React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es mi primer proyecto con React en base a la estructura MERN
+hare todos los cambios aca 
 
 ## Available Scripts
 
